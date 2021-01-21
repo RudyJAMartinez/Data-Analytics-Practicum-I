@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata version="1.4" name="mybeer" frequency="special:1" startobs="1" endobs="52" type="time-series">
+<description>Data imported from Excel file 'holt winter beer.xlsx', 2020-11-18 13:22
+</description>
+<variables count="1">
+<variable name="beer"
+/>
+</variables>
+<observations count="52" labels="true">
+<obs label="">18705 </obs>
+<obs label="">20232 </obs>
+<obs label="">20467 </obs>
+<obs label="">22123 </obs>
+<obs label="">25036 </obs>
+<obs label="">26839 </obs>
+<obs label="">29640 </obs>
+<obs label="">30935 </obs>
+<obs label="">28278 </obs>
+<obs label="">24235 </obs>
+<obs label="">22370 </obs>
+<obs label="">21224 </obs>
+<obs label="">21061 </obs>
+<obs label="">19598 </obs>
+<obs label="">21463 </obs>
+<obs label="">23287 </obs>
+<obs label="">24065 </obs>
+<obs label="">27447 </obs>
+<obs label="">30413 </obs>
+<obs label="">32307 </obs>
+<obs label="">32974 </obs>
+<obs label="">29973 </obs>
+<obs label="">23986 </obs>
+<obs label="">26953 </obs>
+<obs label="">24250 </obs>
+<obs label="">23518 </obs>
+<obs label="">20816 </obs>
+<obs label="">23743 </obs>
+<obs label="">25152 </obs>
+<obs label="">28804 </obs>
+<obs label="">31158 </obs>
+<obs label="">31540 </obs>
+<obs label="">32849 </obs>
+<obs label="">33748 </obs>
+<obs label="">31910 </obs>
+<obs label="">27609 </obs>
+<obs label="">25170 </obs>
+<obs label="">24040 </obs>
+<obs label="">25368 </obs>
+<obs label="">21260 </obs>
+<obs label="">24109 </obs>
+<obs label="">26320 </obs>
+<obs label="">27701 </obs>
+<obs label="">34502 </obs>
+<obs label="">33297 </obs>
+<obs label="">31252 </obs>
+<obs label="">35173 </obs>
+<obs label="">36207 </obs>
+<obs label="">31511 </obs>
+<obs label="">28560 </obs>
+<obs label="">26828 </obs>
+<obs label="">26660 </obs>
+</observations>
+</gretldata>
